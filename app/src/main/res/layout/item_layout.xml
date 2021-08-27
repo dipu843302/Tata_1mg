@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="60dp"
+            android:layout_height="90dp"
+            android:src="@drawable/ic_baseline_chat_24" />
+
+        <TextView
+            android:id="@+id/product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_toRightOf="@id/image"
+            android:text="Horlicks"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/quantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/product"
+            android:layout_marginStart="20dp"
+            android:layout_toRightOf="@id/image"
+            android:text="200 ml"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/quantity"
+            android:layout_marginStart="20dp"
+            android:layout_toRightOf="@id/image"
+            android:text="Rs 200 "
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+
+        <Button
+            android:id="@+id/cart"
+            android:layout_width="80dp"
+            android:layout_height="20dp"
+            android:layout_below="@id/price"
+            android:layout_marginStart="20dp"
+            android:layout_toRightOf="@id/image"
+            android:background="#FF6F61"
+            android:text="Add to cart"
+            android:textSize="10dp" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="240dp"
+    android:src="@drawable/sign"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textSize="25sp"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+  <EditText
+      android:id="@+id/email"
+      android:layout_width="match_parent"
+      android:layout_height="50dp"
+      android:layout_marginTop="20dp"
+      android:background="@drawable/button_background"
+      android:hint=" Email "
+      android:textSize="25sp" />
+
+  <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/password"
+        android:hint=" Password "
+        android:background="@drawable/button_background"
+        android:textSize="25sp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button_color"
+        android:text="Sign In"
+        android:textColor="@color/white"
+        android:id="@+id/sign_in"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forgot password"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="New user sign up"
+        android:id="@+id/sign_up"
+        android:background="@drawable/button_color"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "360530444600",
+    "firebase_url": "https://tata-1mg-default-rtdb.firebaseio.com",
+    "project_id": "tata-1mg",
+    "storage_bucket": "tata-1mg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360530444600:android:bf7e2794b9b2afc05d01cd",
+        "android_client_info": {
+          "package_name": "com.example.tata1mg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360530444600-2p5o19cbo35cqks7nl2blv30uh7m3vug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMT8G7PafgdNicZRii6IxXG59oXuxUeTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360530444600-2p5o19cbo35cqks7nl2blv30uh7m3vug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

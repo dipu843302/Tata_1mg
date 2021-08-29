@@ -8,18 +8,15 @@ You can order . It delivers 3-5 working days. You can book appointment online fo
 
 ## Screenshots
 
-<p float="left">
+|**Login Screen**|**Signup Screen**|**Product Screen**|
+|:---|:--|:-|
+|<img src=https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/Login.jpg height="500px" width="350px"/>|<img src=https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/register.jpg height="500px" width="350px"/>|<img src=https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/product.jpg height="500px" width="350px"/>
 
-  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/Login.jpg" width="150" />
- 
-  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/register.jpg" width="150" />
-    <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/product.jpg" width="150" />
-  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/brand.jpg" width="150" /> 
- 
-  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/offer.jpg" width="150" />
-  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/profile.jpg" width="150" /> 
- 
-</p>
+|**Brand Name Screen**|**Offer Screen**|**Profile Screen**|
+|:---|:--|:-|
+|<img src=https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/brand.jpg height="500px" width="350px"/>|<img src=https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/offer.jpg height="500px" width="350px"/>|<img src=https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/profile.jpg height="500px" width="350px"/>
+
+
 
 ## Technology
 * Android Studio

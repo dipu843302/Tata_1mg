@@ -8,7 +8,18 @@ You can order . It delivers 3-5 working days. You can book appointment online fo
 
 ## Screenshots
 
+<p float="left">
 
+  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/Login.jpg" width="150" />
+ 
+  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/register.jpg" width="150" />
+    <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/product.jpg" width="150" />
+  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/brand.jpg" width="150" /> 
+ 
+  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/offer.jpg" width="150" />
+  <img src="https://github.com/dipu843302/Tata_1mg/blob/master/Tata%201mg/profile.jpg" width="150" /> 
+ 
+</p>
 
 ## Technology
 * Android Studio
